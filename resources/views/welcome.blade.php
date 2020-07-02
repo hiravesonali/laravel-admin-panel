@@ -22,7 +22,7 @@
                             <th></th>
                         </tr>
                         <tr class="border-b hover:bg-orange-100">
-                            <td class="p-3 px-5"><input type="text" value="John Doe" class="bg-transparent"></td>
+                            <td class="p-3 px-5"><input type="text" value="Shoes" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="john@admin.com" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="$45" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="Adidas" class="bg-transparent"></td>
@@ -45,7 +45,7 @@
                             </td>
                         </tr>
                         <tr class="border-b hover:bg-orange-100">
-                            <td class="p-3 px-5"><input type="text" value="John Doe" class="bg-transparent"></td>
+                            <td class="p-3 px-5"><input type="text" value="Shoes" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="john@admin.com" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="$45" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="Adidas" class="bg-transparent"></td>
@@ -68,7 +68,7 @@
                             </td>
                         </tr>
                         <tr class="border-b hover:bg-orange-100">
-                            <td class="p-3 px-5"><input type="text" value="John Doe" class="bg-transparent"></td>
+                            <td class="p-3 px-5"><input type="text" value="Jeans" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="john@admin.com" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="$45" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="Adidas" class="bg-transparent"></td>
@@ -91,7 +91,7 @@
                             </td>
                         </tr>
                         <tr class="border-b hover:bg-orange-100">
-                            <td class="p-3 px-5"><input type="text" value="John Doe" class="bg-transparent"></td>
+                            <td class="p-3 px-5"><input type="text" value="Shirt" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="john@admin.com" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="$45" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="Adidas" class="bg-transparent"></td>
@@ -114,7 +114,7 @@
                             </td>
                         </tr>
                         <tr class="border-b hover:bg-orange-100">
-                            <td class="p-3 px-5"><input type="text" value="John Doe" class="bg-transparent"></td>
+                            <td class="p-3 px-5"><input type="text" value="Shoes" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="john@admin.com" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="$45" class="bg-transparent"></td>
                             <td class="p-3 px-5"><input type="text" value="Adidas" class="bg-transparent"></td>
